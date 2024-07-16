@@ -1,1 +1,2 @@
 # landing-page
+This is a landing page that is styled with flexbox and based upon an image template provided by The Odin Project. The purpose of this project is to further practice and reinforce webdev skills through the use of html and css.
