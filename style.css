@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    flex-direction: column;
+}
+ .logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 80px;
+ }
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 24px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-content {
+    padding-left: 200px;
+    width: 280px;
+}
