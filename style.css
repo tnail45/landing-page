@@ -1,6 +1,13 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .header {
     display: flex;
     flex-direction: column;
+    padding-bottom: 80px;
+    background-color: #1F2937;
 }
  .logo {
     display: flex;
@@ -9,6 +16,8 @@
     padding-left: 200px;
     padding-right: 200px;
     padding-bottom: 80px;
+    font-size: 24px;
+    color: #F9FAF8;
  }
 
 ul {
@@ -19,9 +28,33 @@ ul {
 
 a {
     text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .header-content {
     padding-left: 200px;
-    width: 280px;
+    width: 360px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8
+}
+
+p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.sign-up {
+    padding-left: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 20px;
+    border-radius: 12px;
+    border: none;
+    background-color: #3882F6;
+    color: #F9FAF8;
 }
