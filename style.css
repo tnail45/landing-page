@@ -59,3 +59,43 @@ p {
     background-color: #3882F6;
     color: #F9FAF8;
 }
+
+.container-2 {
+    text-align: center;
+    flex-wrap: wrap;
+    padding-bottom: 180px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.box-content {
+    width: 200px;
+    height: 200px;
+    border: 5px solid #3882F6;
+    margin-bottom: 10px;
+    border-radius: 12px;
+}
+
+.p2 {
+    margin-top: 220px;
+    color: #A9A9;
+}
