@@ -44,7 +44,7 @@ h1 {
     color: #F9FAF8
 }
 
-.p1 {
+.header-paragraph {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -95,7 +95,7 @@ h2 {
     border-radius: 12px;
 }
 
-.p2 {
+.box-text {
     margin-top: 220px;
     color: #A9A9;
     font-size: 18px;
