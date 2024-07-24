@@ -100,3 +100,30 @@ h2 {
     color: #A9A9;
     font-size: 18px;
 }
+
+.quote-header {
+    padding-top: 180px;
+    padding-bottom: 180px;
+    background-color: #dcdde6;
+}
+
+.quote {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+
+.thor {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bolder;
+    padding-right: 500px;
+    font-size: 24px;
+}
