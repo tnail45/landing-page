@@ -62,7 +62,6 @@ h1 {
 
 .info-header {
     text-align: center;
-    flex-wrap: wrap;
     padding-bottom: 180px;
 }
 
@@ -126,4 +125,45 @@ h2 {
     font-weight: bolder;
     padding-right: 500px;
     font-size: 24px;
+}
+
+.footer-parent {
+    padding: 100px;
+    padding-left: 220px;
+    padding-right: 220px;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 12px;
+
+}
+
+h3 {
+    margin: 0%;
+    color: #F9FAF8;
+    font-size: 24px;
+
+}
+
+.footer-text {
+    margin: 0%;
+    color: #F9FAF8;
+
+}
+
+.footer-button {
+    padding-left: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 20px;
+    margin: 0%;
+    background-color: #3882F6;
+    border-color: #F9FAF8;
+    color: #F9FAF8;
+    border-radius: 12px;
+    border: solid white;
 }
